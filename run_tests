@@ -1,0 +1,3 @@
+#! /bin/bash
+python3 /app/src/Computacion.Parcial.1/test_member.py && \
+python3 /app/src/Computacion.Parcial.1/test_book.py
