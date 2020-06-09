@@ -36,7 +36,7 @@ class Member:
     @phone.setter
     def phone(self, value):
         self._phone = value
-    
+
     @property
     def id(self):
         return self._legajo
